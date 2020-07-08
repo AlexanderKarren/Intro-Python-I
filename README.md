@@ -59,26 +59,26 @@ obtained via exposure to other programming languages towards learning Python.
 
 The suggested order for going through each of the directories is: 
 
-* `hello` -- Hello world
-* `bignum` -- Print some big numbers
-* `datatypes` -- Experiment with type conversion
-* `modules` -- Learn to import from modules
-* `printing` -- Formatted print output
-* `lists` -- Python's version of arrays
-* `tuples` -- Immutable lists typically for heterogenous data
-* `slices` -- Accessing parts of lists
-* `comprehensions` -- List comprehensions
-* `dictionaries` -- Dictionaries
-* `functions` -- Functions
-* `args` -- Arguments and Keyword Arguments
-* `scopes` -- Global, Local, and Non-Local scope
-* `file_io` -- Read and write from files
-* `cal` -- Experiment with module imports and implement a text-based calendar
-* `classes` -- Classes and objects
+* [x] `hello` -- Hello world
+* [x] `bignum` -- Print some big numbers
+* [x] `datatypes` -- Experiment with type conversion
+* [x] `modules` -- Learn to import from modules
+* [x] `printing` -- Formatted print output
+* [x] `lists` -- Python's version of arrays
+* [x] `tuples` -- Immutable lists typically for heterogenous data
+* [x] `slices` -- Accessing parts of lists
+* [x] `comprehensions` -- List comprehensions
+* [x] `dictionaries` -- Dictionaries
+* [x] `functions` -- Functions
+* [x] `args` -- Arguments and Keyword Arguments
+* [x] `scopes` -- Global, Local, and Non-Local scope
+* [x] `file_io` -- Read and write from files
+* [x] `cal` -- Experiment with module imports and implement a text-based calendar
+* [x] `classes` -- Classes and objects
 
 ## Stretch Goals
 
-1. One of Python's main philosophical tenets is its emphasis on readability. To
+1. [x] One of Python's main philosophical tenets is its emphasis on readability. To
    that end, the Python community has standardized around a style guide called
    [PEP 8](https://www.python.org/dev/peps/pep-0008/). Take a look at it and
    then go over the code you've written and make sure it adheres to what PEP 8
@@ -87,13 +87,13 @@ The suggested order for going through each of the directories is:
    [here](https://code.visualstudio.com/docs/python/linting)). Try installing
    one for your editor!
 
-2. Rewrite code challenges you've solved before or projects you've implemented
+2. [ ] Rewrite code challenges you've solved before or projects you've implemented
    before in a different language in Python. Start getting in as much practice
    with the language as possible!
 
-3. Write a program to determine if a number, given on the command line, is prime.
+3. [x] Write a program to determine if a number, given on the command line, is prime.
 
-   1. How can you optimize this program?
-   2. Implement [The Sieve of
+   1. [ ] How can you optimize this program?
+   2. [ ] Implement [The Sieve of
       Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes), one
       of the oldest algorithms known (ca. 200 BC).
